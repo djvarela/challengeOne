@@ -15,4 +15,4 @@ La letra "o" es convertida para "ober"
 La letra "u" es convertida para "ufat"
 
 
-Y tambien contener ciertas validaciones como que no acepte acentos ni letras mayusculas
+Y tambien contener ciertas validaciones como que no acepte acentos ni letras mayusculas y o caracteres especiales.
