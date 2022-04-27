@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador</title>
+    <link rel="stylesheet" href="assets/reset.css">
+    <link rel="stylesheet" href="assets/stylo.css">
+</head>
+<body>
+    <header>
+        <img src="img/logo alura.svg" alt="Logo Alura"> 
+    </header>
+   <main>
+        <section class="encriptar">
+            <textarea id="introducir-texto" class="textarea" type="mensaje" cols="50" rows="10" placeholder="Ingrese el texto aquí"></textarea>
+                 <div class="alerta">
+                    <p>Solo letras minúsculas y sin acentos</p>
+                 </div>
+                <div class="btn-conteiner">
+                  <button id="btn1" class="btn1">Encriptar!</button>
+                     <button id="btn2"class="btn2">Desencriptar!</button>
+                 </dSv>
+        </section>
+        <section class="tablero">
+            <div id="conteiner-resultado">
+                <h2 id="titulo-resultado"></h2>
+            </div>
+            <div id="toy" class="conteinerImg">
+                <img src="img/Muñeco.svg" alt="Muñeco">
+                <p  class="text1"><strong>Ningún texto mensaje fue encontrado</strong></p>
+                <p class="text2">Ingresa el texto que deseas encriptar o desencriptar</p>
+            </div>
+            <textarea id="resultado" readonly></textarea>
+            <button id="btn-copy" class="btnCopy">Copiar</button>
+           
+        </section>
+</main> 
+<footer>Desarrollado por Diego J. Varela</footer>
+
+<script src="assets/js/encriptador.js"></script>
+<script src="assets/js/desencriptador.js"></script>
+<script src="assets/js/copiar.js"></script>
+</body>
+</html>
+
