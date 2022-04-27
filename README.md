@@ -2,7 +2,7 @@
 challengeonecodificador2
 
 Este proyecto forma parte de 1 de los 2 Challenge que propone el programa ONE Next Education de Oracle +  Alura.
-Dicho proyecto esta realizado en HTML, CSS y Javascrip.
+Dicho proyecto esta realizado en HTML, CSS y Javascript.
 
 Teniendo como pauta que el texto ingresado sea encriptado y este mismo se pueda desencriptar manteniendo el texto origina, ademas agregar la funcionalidad a un boton que permita COPIAR el texto encriptado/desencriptado simulando el comando de telcas "Ctrl + C".
 
