@@ -1,4 +1,4 @@
-# challenge1
+## Challenge Encriptador de Texto con Javascript
 challengeonecodificador2
 
 Este proyecto forma parte de 1 de los 2 Challenge que propone el programa ONE Next Education de Oracle +  Alura.
